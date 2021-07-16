@@ -196,35 +196,35 @@
 Политика Круга может указать альтернативный процесс или изменить процесс по умолчанию для Тактических Встреч, созванных одной из Ролей Круга.
 
 
-## Article 4: Distributed Authority
+## Статья 4: Структура расределённой власти
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+Как у Исполнителя Роли, у Вас есть все полномочия, чтобы совершить любое действие или принять любое решение в целях выполнения Миссии и Обязательств Вашей Роли, покуда вы не нарушаете правила, описанные в этой Конституции. Когда расставляете приоритеты и выбираете среди потенциальных действий, вы вправе опираться на свои собственные суждения об относительной ценности каждого действия для Организации.
 
-### 4.1 Constraints on Authority
+### 4.1 Ограничения полномочий Исполнителей Ролей
 
-As a Role Lead, you must honor the following constraints on your authority.
+Как Исполняющий Роли вы обязаны соблюдать следующие ограничения ваших полномочий.
 
-#### 4.1.1 Don't Violate Policies
+#### 4.1.1 Не нарушайте Политики
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+Когда действуете в Роли, вы не можете нарушать любые Политики Роли или Круга, содержащего Роль.
 
-#### 4.1.2 Get Permission Before Impacting Domains
+#### 4.1.2 Попросите разрешения, прежде чем влиять на Домен
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+В интересах вашей Роли у Вас есть полномочия влиять и контролировать Домены своей Роли.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+Вы также можете влиять на Домены, принадлежащие Кругу, содержащему Вашу Роль, которые не были делегированы, и так же на любой другой Домен, на который может влиять этот Круг. Но если вы считаете, что последствия ваших действий будет трудно или дорого исправить, Вы должны попросить разрешения.
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+Вы не можете осуществлять контроль или воздействовать на Домен, делегированный Роли или Кругу, который не содержит Вашу Роль, пока не попросите разрешения. Вы так же не можете без разрешения воздействовать на любой другой Домен, контролируемый любой другой суверенной единицей.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+Когда Вам нужно разрешение воздействовать на Домен, Вы можете получить его у любого, кто этот Домен контролирует. Вы также можете получить разрешение, анонсировав, что собираетесь предпринять определённое действие, и пригласив любого, влияющего на Домен,  внести свои возражения. Затем вы должны выждать разумное время, чтобы дать возможность ответить. Если за это время никто не внес возражений, у Вас есть разрешение оказывать влияние на любой Домен любой Роли в Организации, которое Вы анонсировали. Вы можете предполагать, что письменный анонс прочитали все, кто обычно читает сообщения в том канале, где вы его опубликовали. Любое разрешение, полученное таким образом, применимо только к тому действию, которое вы анонсировали. Посредством Политики можно изменить или ограничить этот процесс.
 
-#### 4.1.3 Get Authorization Before Spending Money
+#### 4.1.3 Получите разрешение, прежде чем расходовать средства
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+Вы не можете расходовать деньги или другое имущество, если сначала не получите разрешение это сделать. Такое разрешение может дать Круг или Роль, уже обладающие контролем над этими ресурсами в целях их расходования. Действие считается расходованием, если с ним связана потеря существенного имущества Организации, или если оно существенно ограничивает любое из прав Оргнизации.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+Чтобы получить разрешение на расходование, Вы должны анонсировать своё намерение в письменном виде Роли, у которой Вы хотите получить разрешения. Вы должны опубликовать этот анонс там, где все Партнёры, выполняющие эту Роль или Роли внутри этого Круга, скорее всего его увидят. Ваше заявление должно включать причину расходования и Роль, в которой оно произойдёт. Вы должны выждать разумное время, чтобы дать возможность оценить ситуацию и ответить. Любой получатель Вашего анонса может эскалировать его на дальнейшую оценку, и в этом случае Вы не можете продолжить свои действия. Однако, Исполнитель Роли, у которой Вы хотите получить разрешения, может отменить эскалацию, так же как и человек, который её запустил. Когда разумное время прошло, и эскалаций не было, Ваша Роль получает контроль над обозначенными ресурсами. Вы можете расходовать их в заявленных целях или дать возможность другим делать то же. Роль, давшая такое разрешение, в свою очередь, теряют контроль над этим ресурсом. Однако, Исполнитель соответствующей Роли может отменить авторизацию в любой момент.
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+Посредством Политики можно изменить этот процесс любым образом или прямо разрешить Ролям контролировать расходы ресурсов Круга.
 
 ### 4.2 Interpretation Authority
 
