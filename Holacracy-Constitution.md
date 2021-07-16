@@ -1,132 +1,132 @@
-# **Holacracy Constitution**
+# **Конституция Холакратии**
 
-## Preamble
+## Преамбула
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+***«Ратифицирующие»*** настоящим принимают эту ***«Конституцию»*** в качестве официальной структуры полномочий указанной ***«Организации»***. При этом Ратифицирующие уступают свое право управлять Организацией и руководить ею - настоящим правилам и процессам, описанным в этой Конституции, за исключением любых полномочий, которые Ратифицирующие не имеют права делегировать. Ратифицирующие или их преемники могут внести поправки в настоящую Конституцию или отменить её, используя те же  полномочия, на которые они опирались при её принятии, при условии, что любые поправки вносятся в письменной форме.
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Любые существующие политики и системы, которые действовали в Организации до принятия Конституции, продолжают действовать в полной мере после её принятия, однако, такие унаследованные политики и системы не могут расширяться или меняться, кроме как в соответствии с полномочиями и процессами, описанными ниже, и теряют свою силу, как только в рамках процессов этой Конституции будет создано что-либо, противоречащее или замещающее их.
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+Организация может назначить других ***«Партнеров»*** в дополнение к Ратифицирующим для оказания помощи в её управлении и операционной деятельности, при условии, что любые такие Партнеры также согласились соблюдать все соответствующие положения настоящей Конституции. В рамках этого ограничения Организация может определять, как она предоставляет или отзывает статус Партнера, если Ратифицирующими не указано иное, а Ратифицирующие могут указывать первоначальных Партнеров Организации.
 
-Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+Каждый Партнер может полагаться на полномочия, предоставленные настоящей Конституцией, в полной мере, в которой Ратифицирующие обладали такими полномочиями до её принятия. Все обязанности и ограничения для Партнера проистекают из настоящей Конституции и результатов её процессов, а также из любых юридических обязанностей Партнера перед Организацией и во время действия в её интересах. Никакие неявные ожидания или ограничения не имеют никакой власти над Партнером, равно как и никакие предписания, выходящие за рамки полномочий, предоставленных настоящей Конституцией.
 
 
-## Article 1: Organizational Structure
+## Статья 1: Организационная структура
 
-### 1.1 Role Definition
+### 1.1 Определение Роли
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+***"Роль"*** — это организационная единица, в рамках которой кто-то может действовать в интересах организации. Тот, кто выполняет Роль, становится ***"Исполнителем Роли"***. 
 
-A Role definition consists of a descriptive name and one or more of the following:
+Определение Роли состоит из информативного названия и одного или более из следующих элементов:
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+- **А)** ***"Миссии"*** - способности, возможности или цели, которую Роль преследует или выражает.
+- **Б)** Одного или нескольких ***"Доменов"*** - то есть имущества, процессов, или других вещей, которые находится под исключительным контролем Роли, и которой она распоряжается как своей собственностью, для реализации своей Миссии.
+- **В)** Одного или нескольких ***"Обязательств"*** – постоянных активностей, выполнение которых Роль берет на себя, чтобы помогать другим Ролям и исполнять свою Миссию.
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+Роль так же может содержать ***"Политики"*** — то есть ограничения или расширение полномочий, или специальные правила, применяемые к операционной деятельности в рамках Роли.
 
-### 1.2 Responsibilities of Role Leads
+### 1.2 Обязанности исполнителя Роли
 
-As a Role Lead, you have the following responsibilities:
+У Исполнителя Роли есть следующие обязанности:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 Обработка напряжений
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+Вы отвечаете за сравнение текущего состояния реализации Миссии и Обязательств вашей Роли с вашим видением их идеального потенциала, с целью обнаружить различие междц ними (каждое такое различие является ***"Напряжением"***). Затем вы отвечаете за то, чтобы попытаться разрешить (найти способ устранить) это Напряжение.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 Работа с Миссий и Обязательствами
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+Вы отвечаете за постоянный поиск возможностей для выполнения Миссии и Обязательств Роли, определяя:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **А)** ***"Следующие Действия"*** — полезные действия, которые вы можете немедленно совершить в случае отсутствия конкурирующих приоритетов; и
+- **Б)** ***"Проекты"*** — конкретные результаты, над которыми было бы полезно поработать в случае отсутствия конкурирующих приоритетов.
 
-#### 1.2.3 Breaking Down Projects
+#### 1.2.3 Декомпозиция Проектов
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+Вы отвечаете за регулярное определение Следующий Действи для каждого активного проекта вашей Роли.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 Отслеживание Проектов, Следующих Действий и Напряжений
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+Вы отвечаете за то, чтобы отражать и отслеживать все Проекты и Следующие действия вашей Роли в письменных списках. Вы так же должны отслеживать Напряжения, которые намереваетесь решить, как минимум до тех пор, пока они не будут преобразованы в Проекты и Следующие Действия. Вы так же отвечаете за регулярный пересмотр и обновление этих списков, чтобы они оставались надёжным источником потенциальной работы для Вашей Роли.
 
-#### 1.2.5 Executing Next-Actions
+#### 1.2.5 Выполнение Следующих Действий
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+Когда у Вас есть время действовать в Роли, Вы отвечаете за оценку следующих действий, которые Вы можете предпринять, и выполнение тех из них, которые принесут наибольшую пользу Организации.
 
-### 1.3 Circles
+### 1.3 Круги
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+***"Круг"*** — это контейнер для организации Ролей и Политик, объединённых общей Миссией. Роли и Политики внутри Круга составляют его действующее ***"Законодательство"***.
 
-#### 1.3.1 Breaking Down Roles
+#### 1.3.1 Декомпозиция Ролей
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+Каждая Роль изнутри является Кругом. Внутренний Круг Роли может содержать другие Роли и Политики, чтобы декомпозировать и организовывать работу этой Роли. Это не относится к Ролям, определённым в данной Конституции, которые не могут быть декомпозированы.
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+Внутренний Круг Роли считается ***"Под-Кругом"*** более широкого Круга, который содержит Роль, тогда как этот более широкий Круг — её ***"Супер-Круг"***
 
-#### 1.3.2 Delegating Domains
+#### 1.3.2 Делегирование Доменов
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+Когда Круг передаёт Домен одной из своих Ролей, каждый Исполнитель этой Роли может контролировать этот Домен в интересах Круга. Круг может передать своим Ролям только Домены, содержащиеся внутри имеющихся Доменов Круга, или имеющие отношение только к его внутренним процессам.
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+Когда Роль контролирует Домен, она может в рамках своего Законодательства создавать Политики, управляющие этим Доменом. Однако, Круг, который делегировал Домен, оставляет право переопределить свои собственные Политики, управляющие этим Доменом. В случае противоречия с Политиками Роли, Политика Круга считается главнее.
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+Передача Домена Роли не делегирует каких-либо прав Круга на расход денег или имущества, если это не указано явно.
 
-#### 1.3.3 Anchor Circle
+#### 1.3.3 Якорный Круг
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+Самый широкий Круг, работающий над Миссией всей Организации, называется ***"Якорный Круг"***. Якорный Круг обладает всеми полномочиями и Доменами, которые контролирует Организация, и у него нет Супер-Круга и нет Обязательств. Якорный Круг может изменить свою собственную Миссию посредством Политики.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+Ратифицирующие могут определить первоначальную структуру и другое Законодательство в Якорном Круге при принятии этой Конституции.
 
-#### 1.3.4 Linking Into Circles
+#### 1.3.4 Связи с другими Кругами
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+Роль может входить в другой Круг (быть с ним связана), если Политика этого другого Круга или его Супер-Круга разрешает такое участие.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Если Роль связана с другим Кругом, эта Роль так же рассматривается как предмет Законодательства этого другого Круга. Такой Круг может добавлять к этой Роли, и позже менять то, что было добавлено. Однако, он не может удалить Роль, и другие Круги не могут изменять или удалять что-либо из добавленного этим Кругом. Полномочия назначать или изменять назначение исполнителей на эту Роль остаются у её исходного Круга. Круг, с которым Роль связана, не считается её Супер-Кругом, так же как и внутренний Круг Роли не считается его Под-Кругом.
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+Круг может убрать связь с Ролью через удаление Политики, которая разрешила такую связь, или любым другим способом, описанным в такой Политике. Роль может сомостоятельно убрать связь с Кругом, кроме случаев, когда Политика её Супер-Круга, или действующая в его рамках, запрещает это делать. Когда связь Роли с Кругом разрывается, любое Законодательство, добавленное к Роли связанным Кругом, автоматически убирается.
 
-#### 1.3.5 Facilitator & Secretary Roles
+#### 1.3.5 Фасилитатор и секретарь
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+Любой Круг может назначить кого-либо ***"Фасилитатором"*** Круга. Выбранный Фасилитатор выполняет ***"Роль Фасилитатора"*** в Круге с миссией "Законодательство Круга и операционные практики соответствуют Конституции".
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+Любой Круг может назначить кого-либо ***"Секретарём"*** Круга. Выбранный Секретарь выполняет ***"Роль Секретаря"*** в Круге с миссией "Стабилизация Конституционно-необходимых записей и встреч".
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+Круг может добавлять Обязательства или Домены Ролям Фасилитатора или Секретаря, а также менять или убирать эти добавления. Никакой Круг не может изменить или убрать Миссию, Домены или Обязательства этих Ролей, или удалить сами Роли.
 
-### 1.4 Circle Leads
+### 1.4 Лидеры Кругов
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+Каждый Лидер Роли автоматически выполняет ***"Роль Лидера Круга"*** во внутреннем Круге этой Роли, и является ***"Лидером Круга"***, когда действует в этом контексте. Роль Лидера Круга наследует всю Миссию этой более широкой Роли и все обязанности этой Роли в той части, в какой они не охватываются Ролями или процессами внутри Круга.
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+Якорный Круг не имеет Лидеров Круга, кроме случаев, когда Политика Круга говорит об обратном.
 
-#### 1.4.1 Assigning Roles
+#### 1.4.1 Назначение на Роли
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+Лидер Круга контролирует назначение Ролей в Круге и может назначить любую Роль в Круге любому желающему ее выполнять, в том числе нескольким людям одновременно. Любой назначенный таким образом может позже отказаться от выполнения этой Роли, если они не договорились об ином. Лидер Круга также может отозвать назначение на любую Роль в Круге в любое время.
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+При назначении на Роль Лидер Круга может дополнительно определить фокус на отдельной области или контексте, если все элементы в определении Роли по-прежнему актуальны в этом фокусе. Каждое назначение на роль с определённым фокусом рассматривается как полностью отдельная Роль, а миссия, ответственность и домены Роли применяются только в пределах фокуса, указанного для каждого назначения.
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+Никто, кроме Лидера Круга, не может назначить Роль или отозвать назначение Роли в Круге, если Круг не делегировал управление назначением Ролей другой Роли или процессу. Политика может дополнительно ограничивать назначение или удаление Ролей.
 
-#### 1.4.2 Covering Unfilled Roles
+#### 1.4.2 Замещение незаполненных Ролей
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+Каждый раз, когда Роль в Круге не занята, каждый Лидер Круга автоматически считается Исполнителем этой незаполненной Роли.
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+Если Роль занимают только люди, не являющиеся Партнёрами Организации, тогда каждый Лидер Круга автоматически считается также Исполнителем этой Роли. Однако это назначение по умолчанию применяется только в той степени, в которой лица, не являющиеся Партнёрами, активно не выполняют соответствующие обязанности и функции, которые имел бы Партнёр.
 
-#### 1.4.3 Defining Priorities & Strategies
+#### 1.4.3 Определение Приоритетов и Стратегий
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+Лидер Круга может устанавливать относительные приоритеты потенциальных усилий Круга, чтобы разрешить конфликты приоритетов между Ролями. Лидер Круга также может определять ***"Стратегию"*** Круга, или множество стратегий, являющихся эвристическими правилами, определяющими приоритизацию.
 
-#### 1.4.4 Routing External References
+#### 1.4.4 Перенаправление внешних ссылок
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+В ситуации, когда Законодательство, внешнее по отношению к Кругу, ссылается на Круг, или на Роль внутри Круга, Лидер Круга может изменять такие ссылки, чтобы они ссылались на другие Роли в Круге. Такое изменение не считается изменением Законодательства Круга.
 
-#### 1.4.5 Amending the Circle Lead Role
+#### 1.4.5 Уточнение Роли Лидера Круга
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+Круг не может ни изменить Миссию Роли Лидера Круга, ни удалить эту Роль.
 
-A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
+Круг может добавлять Обязательства и Домены к Роли Лидера Круга, и такие добавления также автоматически применяются к Роли Лидера каждого Под-Круга рекурсивно. Круг не может добавлять Обязательства или Домены только к своей собственной Роли Лидера Круга.
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+Круг может убрать любое Обязательство, Домен, полномочие или функцию Роли Лидера Круга. Это можно делать передавая такие полномочия другим Ролям в Круге, или определяя альтернативные средства их реализации. Когда Круг таким образом передаёт эти полномочия, они автоматически убираются из Роли Лидера Круга, покуда такая передача действует.
 
 
 ## Article 2: Rules of Cooperation
