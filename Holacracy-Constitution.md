@@ -129,71 +129,71 @@
 Круг может убрать любое Обязательство, Домен, полномочие или функцию Роли Лидера Круга. Это можно делать передавая такие полномочия другим Ролям в Круге, или определяя альтернативные средства их реализации. Когда Круг таким образом передаёт эти полномочия, они автоматически убираются из Роли Лидера Круга, покуда такая передача действует.
 
 
-## Article 2: Rules of Cooperation
+## Статья 2: Правила сотрудничества
 
-### 2.1 Duty of Transparency
+### 2.1 Обязанность обеспечения прозрачности
 
-As a Partner, you have the duty to provide transparency to Role Leads in the Organization upon their request, as follows:
+Как у Партнера, у Вас есть обязанность обеспечивать прозрачность для Лидеров Ролей в любой из следующих областей по их запросу:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for the Organization.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Roles or towards any of your Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's readily available to you and won't cause harm to share.
+- **А) Проекты и Следующие Действия:** Вы должны делиться информацией о любых Проектах и Следующих Действиях, которые вы реализуете для организации.
+- **Б) Относительные Приоритеты:** Вы должны рассказать о своих суждениях об относительных приоритетах любого Проекта или Следующего Действия своей Роли в сравнении с чем угодно другим, требующим внимания.
+- **В) Прогнозы:** Вы должны предоставить прогноз, когда вы ожидаете закончить любой из Проектов или Следующих Действий Вашей Роли. Грубой оценки достаточно, учитывая ваш текущий контекст и приоритеты. Детальный анализ или планирование не требуются, и такой прогноз ни в коей мере не является обещанием. Если обратное не указано в Законодательстве, то у вас нет обязанности отслеживать или давать обновления по данным ранее прогнозам.
+- **Г) Пункты Чек-Листа:** Вы должны следить за выполнением любых повторяющихся действий, которые вы выполняете в своей Роли или как Партнёр организации. Если об этом попросили, Вы должны продолжать регулярно отчитываться о таких действиях, пока не поймёте, что в этом отпала необходимость.
+- **Д) Метрики:** Вы должны предоставлять данные метрик, которые вы собираете в своей Роли или как Партнёр Организации. Если об этом попросили, Вы должны продолжать регулярно отчитываться об этих метриках, пока не поймёте, что в этом отпала необходимость.
+- **Е) Информация о ходе работ:** Вы должны предоставлять сводку о прогрессе, которого добились в своей Роли или по одному из Проектов вашей Роли с момента последнего такого отчёта. Если об этом попросили, вы должны продолжать регулярно делиться такими обновлениями, пока не поймёте, что в этом отпала необходимость.
+- **Ж) Другая информация:** Вы должны делиться любой другой инфоърмацией, которая вам уже доступна и её предоставление не причинит вреда.
+- 
+### 2.2 Обязанность обработки
 
-### 2.2 Duty of Processing
+Как у Партнера, у Вас есть обязанность оперативно обрабатывать сообщения и запросы Лидеров Ролей, как описано ниже:
 
-As a Partner, you have the duty to promptly process messages and requests from Role Leads in the Organization, as follows:
+- **А) Запросы на внесение ясности:** Другие могут просить вас внести ясность относительно Следующих Действий для любого из ваших Проектов или Обязательств вашей Роли. Вы должны определить и сообщить о Следующем Действии, которое этому поможет, если таковое на данный момент имеется. Если таких действий сейчас нет, Вы должны сообщить, чего вы ждёте, прежде чем сможете предпринять Следующее Действие.
+- **Б) Запросы Проектов и Следующих Действий:** Другие могут просить вас взять в своей Роли определённое Следующее Действие или Проект. Вы должны принять их и следить за их выполнением, если Вы считаете что над этим есть смысл работать в Вашей Роли, хотя бы в случае отсутствия конкурирующих приоритетов. Если Вы так не считаете, Вы должны или объяснить свою позицию, или предложить что-то другое, что по-вашему поможет запрашивающему достичь своей цели.
+- **В) Запросы разрешения влиять на Домен:** Другие могут просить разрешения повлиять на Домен, подконтРольный одной из Ваших Ролей. Вы должны дать такое разрешение, если вы не видите причин, почему это может уменьшить Ваши возможности выполнять Миссию и Обязательства Вашей Роли. Если Вы видите такую причину, Вы должны объяснить её запрашивающему.
 
-- **(a) Requests to Clarify:** Others may ask you to clarify the next steps for any of your Projects or for any Accountability of your Roles. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project. You must accept and track it if you believe it would make sense to work towards in one of your Roles or as a Partner of the Organization, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
+### 2.3 Обязанность приоритезации
 
-### 2.3 Duty of Prioritization
+Вы должны приоритизировать свои активности в соответствии со следующим:
 
-As a Partner, you have a duty to prioritize your attention in alignment with the following:
+- **А) Обработка:** Вы должны в целом приоритизировать обработку входящих сообщений от других Ролей выше выполнения ваших Следующих Действий. Однако, Вы можете откладывать обработку сообщений, чтобы обрабатывать их порциями в удобное время, если это ещё будет своевременно. Обработка включает выполнение любых обязанностей из этой Статьи, и последующее информирование о том, как запрос был обработан. Обработка не включает выполнение Проектов и Следующих Действий, которые вы зафиксировали.
+- **Б) Встречи:** Вы должны приоритизировать участие в любых встречах, описанных в этой Конституции, выше, чем выполнение своих Следующих Действий, но только если такая приоритизация явным образом запрошена относительно конкретной встречи. Вы также можете отклонить такой запрос, если на это время у вас уже есть другие планы.
+- **В) Приоритеты Круга:** Когда Вы выбираете, над чем работать дальше в рамках вашей Роли, вы должны принять во внимание все официальные Стратегии и относительные приоритеты Круга, в котором находится Ваша Роль, и всех его Супер-Кругов. Вы должны относиться к таким официальным приоритетам, как более важным для Организации, чем ваши собственные приоритеты или ваше понимание приоритетов Организации. Официальные приоритеты устанавливаются Лидером Круга, или любой другой Ролью или процессом, которым было передано полномочие разрешать конфликты приоритетов и определять Стратегии Круга. 
+- **Г) Дедлайны:** Если Законодательство или официальная Стратегия или приоритизация Круга включает дедлайн, определяющий, когда что-то должно быть готово, вы не должны непременно выполнить этот дедлайт. Вместо этого, вы должны интерпретировать это как официальную приоритизацию любых действий, необходимых для выполнения этого дедлайна, над любыми другими действиями для этого Круга, и действовать соответственно. Лидер Круга или другая Роль или процесс с полномочиями разрешать конфликты приоритетов между Ролями, может переопределить такую приоритезацию.
 
-- **(a) Processing:** You must generally prioritize processing inbound messages to your Roles from other Role Leads over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when another Partner explicitly requests this prioritization for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on in a Role, you must consider any official Strategies or relative prioritizations of that Role, of any Circle holding that Role, and of any Super-Circle thereof. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities. Official priorities of a Circle are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for that Circle.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, no one may interpret that as a mandate to meet that deadline regardless of the impact of doing so. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
+### 2.4 Партнёрские Соглашения
 
-### 2.4 Relational Agreements
+Как Партнёр, вы можете заключать с другими Партнёрами ***"Рабочие Соглашения"***. Это соглашения о том, как вы будете взаимодействовать друг с другом во время работы в Организации, или о том, как вы будете выполнять свои основные функции в качестве Партнеров Организации. Такие соглашения могут дополнять или уточнять обязанности, указанные в этой статье, но не могут противоречить им. 
 
-As a Partner, you may have ***“Relational Agreements”*** with other Partners. These are agreements about how you will relate together while working in the Organization, or about how you will fulfill your general functions as Partners of the Organization. They may add to or clarify the duties in this Article, but they may not conflict with them.
+Рабочие Соглашения должны быть сосредоточены на формировании поведения, которое обычно лежит в основе работы; они не могут устанавливать ожиданий относительно работы, выполняемой в Роли, или ожиданий относительно того, как Партнер будет расставлять приоритеты в различных Ролях. Более того, они могут указывать только конкретные поступки или поведенческие ограничения, которые необходимо соблюдать. Они не могут включать обещаний достигать определённых результатов или воплощать абстрактные качества.
 
-Relational Agreements must remain focused on shaping behaviors that generally underpin work; they may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor; they may not include promises to achieve specific outcomes or embody abstract qualities.
+Как Партнёр, вы можете запросить Рабочее Соглашение с другим Партнёром по Вашим собственным предпочтениями или в интересах Роли, которую вы выполняете. Этот Партнёр может принять или отвергнуть запрошенное Рабочее Соглашение, на основе его собственных предпочтений. Любая сторона может в любой момент прекратить действие соглашения, без согласия другой стороны, если не оговорено обратное.
 
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Unless otherwise agreed, either party may later terminate the Relational Agreement by notifying the other party.
-
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process for the Organization may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+Как у Партнёра, у вас есть обязанность следовать всем Рабочим Соглашениям, которые вы заключили. Любой, кто ведёт (фасилитирует) встречу или процесс могут также требовать выполнения Рабочих Соглашений в этом процессе или на этой встрече, покуда они не противоречат чему-либо в этой Конституции.
 
 
-## Article 3: Tactical Meetings
+## Статья 3: Тактические Встречи
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+Любой Партнер может созвать ***«Тактическую встречу»***, чтобы помочь Партнерам вовлечь друг друга в выполнение своих обязательств и регулярных действий. Кроме того, Секретарь каждого Круга отвечает за планирование регулярных Тактических встреч Круга.
 
-### 3.1 Attendance
+### 3.1 Участие
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+На регулярные Тактические Встречи, организованные Секретарём Круга, приглашены все Роли Круга, пока нет Политики, указывающей иное. Для остальных Тактических Встреч Партнёр, созывающий Тактическую Встречу, должен назвать Роли, нужные для этой встречи. Все Партнёры, являющиеся Лидерами этих Ролей, приглашены к участию, если организатор не уточнил, что приглашение включает только некоторых Лидеров этих Ролей.
 
-### 3.2 Meeting Process
+### 3.2 Процесс Встречи
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+Фасилитатор Круга отвечает за проведение регулярных Тактических встреч Круга, а его Секретарь отвечает за фиксацию и публикацию результатов Тактических встреч. Для Тактических встреч, созываемых кем-то, кроме Секретаря Круга, Партнер, созывающий такую Тактическую встречу, должен фасилитировать её и фиксировать её результаты или назначить для этого другого волонтера или соответствующую Роль.
 
-Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+Если нет Политики, которая бы это меняла, фасилитирующий встречу должен использовать следующий процесс:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Items:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **А) Раунд Входа:** Каждый участник по очереди делится своим состоянием или любым другим открывающим комментарием. Отвечать запрещено.
+- **Б) Обзор Чек-Листов:** Каждый участник подтверждает выполнение любых повторяющихся действий, по которым он регулярно отчитывается в своей Роли на таких встречах.
+- **В) Обзор Метрик:** Каждый участник делится данными метрик, по которым он регулярно отчитывается в своей Роли на таких встречах.
+- **Г) Информация о ходе работ:** Каждый участник рассказывает о прогрессе в любом Проекте или другой инициативе, по которым он регулярно отчитывается в своей Роли на таких встречах. Участники могут рассказывать только о прогрессе с момента последнего такого отчёта, а не рассказывать полный статус любой работы.
+- **Д) Формирование повестки:** Участники формируют повестку из пунктов для обработки в рамках встречи. Каждый участник может добавить в повестку столько пунктов, сколько хочет, давая каждому из них краткое название, при этом объяснять или обсуждать не разрешается. Участники могут добавлять пункты в повестку и после этого шага, между обработкой существующих пунктов.
+- **Е) Обработка Напряжений:** Чтобы обработать очередной пункт повестки, его владелец может делать запросы другим участникам, или в качестве Партнёра на общих основаниях, или к Роли, которую участник на этой встрече представляет. Однако, запросы к Роли могут быть сделаны только в интересах той Роли, которую на встрече представляет запрашивающий. Ведущий управляет временем, отведённым на каждый пункт повестки, чтобы уделить время всей повестке, и может остановить обработку любого пункта, когда время на него истекло.
+- **Ж) Раунд Выхода:** Каждый участник по очереди может поделиться закрывающими соображениями о встрече. Отвечать запрещено.
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+Политика Круга может указать альтернативный процесс или изменить процесс по умолчанию для Тактических Встреч, созванных одной из Ролей Круга.
 
 
 ## Article 4: Distributed Authority
