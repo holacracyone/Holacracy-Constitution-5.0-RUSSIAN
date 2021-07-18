@@ -314,156 +314,157 @@
 
 Политика, которая даёт или ограничивает полномочия, так же действует и во всех Под-Кругах на всех уровнях вложенности, если не указано обратное. Политика, которая меняет правила или процессы этой Конституции, действует только непосредственно в Круге, в котором создана, или, если об этом сказано явным образом, то и во всех Под-Кругах на всех уровнях вложенности. В этом случае Под-Круг может заменить такую Политику своей собственной, если только это не запрещается явным образом исходной Политикой.
 
-### 5.3 Changing Governance
+### 5.3 Законодательный Процесс
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+Любой Член Круга, может инициировать Законодательный Процесс, предложив изменение Законодательства. Чтобы это сделать, ***"Предлагающий"*** должен сначала опубликовать ***"Предложение"*** другим Членам Круга в письменной форме, используя канал коммуникации, одобренный Секретарём. Другие Члены Круга могут задавать уточняющие вопросы, делиться реакциями и сомнениями относительно Предложения. Любое сомнение является ***"Возражением"***, если соответствует перечисленным тут критериям, а человек, озвучивший это сомнение — ***"Возражающим"***.
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
+Когда каждый Член Круга подтвердил, что у него нет Возражений на Предложение, оно вступает в силу и меняет Законодательство Круга. Если появились возражения, Предлагающий и каждый Возражающий должны найти способ снять Возражения, прежде чем предложение вступит в силу. После каждой такой попытки, все Члены Круга должны получить ещё одну возможность внести Возражения. Круг может принять Политику, определяющую ограничения по времени на внесение Возражений, после которого предполагается, что у тех кто не ответил, нет Возражений. В любой момент, пока Круг обрабатывает Предложение в асинхронном режиме, любой Член Круга может попросить Предлагающего перенести Предложение на Законодательную встречу для его обработки в реальном времени. Если в Политике не указано иное, асинхронная обработка прекращается, и предложение считается отозванным до тех пор, пока оно не будет повторно предложено на Законодательной встрече.
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+Внося Предложение или Возражение, Член Круга может действовать только в интересах Ролей в Круге, которые он или исполняет в качестве Исполнителия Роли, или представляет в качестве Представителя Круга. Член Круга так же может представлять Роль, от Исполнителя которой получил разрешение её представлять, до тех пор, пока не истечёт срок действия такого разрешения, или оно не будет отозвано.
 
-#### 5.3.1 Proposal Requirements
+#### 5.3.1 Критерии действительности предложений
 
-For a Proposal to be valid, the Proposer must be able to:
+Чтобы Предложение считалось действительным, Предлагающий должен быть в состоянии выполнить всё из перечисленного:
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **А)** описать Напряжение, которое решится данным Предложением для одной из Ролей Предлагающего; и
+- **Б)** дать пример реальной ситуации из недавнего прошлого или настоящего, демонстрирующий это Напряжение; и
+- **В)** дать разумное объяснение, как Предложение поможет уменьшить в этом примере Напряжение.
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
+Если в какой-то момент Фасилитатору становится ясно, что любой из этих критериев не выполнен, Фасилитатор должен снять Предложение.
 
-#### 5.3.2 Objection Requirements
+#### 5.3.2 Критерии действительности Возражений
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+Сомнение относительно принятия Предложения считается Возражением только в том случае, если Возражающий может привести разумные аргументы, объясняющие, почему его возражение соответствует **всем** перечисленным ниже критериям:
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+- **А)** Предложение ограничит возможности Круга для выполнения своей Миссии или Обязательств.
+- **Б)** Предложение ограничило бы возможности Возражающего для выполнения Миссии и Обязательств Роли, которую Возражающий представляет в Круге, даже если бы Возражающий не выполнял никаких других Ролей в Организации.
+- **В)** Обозначенная проблема не существует сейчас, до введения Предложения. То есть, с введением Предложения возникнет новое напряжение.
+- **Г)** Предложение неизбежно нанесёт вред, или, в случае, если это произойдёт, у Круга не будет адекватной возможности адаптироваться, прежде чем будет нанесён существенный вред.
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+Однако, вне зависимости от выполнения этих критериев, сомнение всегда считается Возражением, если его принятие нарушит правила этой Конституции.
 
-#### 5.3.3 Testing Potential Objections
+#### 5.3.3 Тестирование потенциальных Возражений
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+Фасилитатор может проверять, является ли сомнение Возражением, спрашивая Возражающего, соответствует ли сомнение указанным критериям, и как именно. Оценивая ответы, Фасилитатор может судить только о том, представил ли Возражающий аргументы на каждый критерий. Фасилитатор не может судить о правильности аргументов или их важности.
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+Когда Возражающий заявляет, что Предложение нарушит Конституцию, Фасилитатор может попросить Секретаря интерпретировать, так ли это. Если Секретарь сочтёт, что это не так, Фасилитатор может снять это Возражение.
 
-#### 5.3.4 Rules of Integration
+#### 5.3.4 Правила интеграции
 
-While attempting to resolve an Objection, the following rules apply:
+В процессе работы по снятию Возражения, действуют следующие правила:
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+- **А)** Фасилитатор обязан по запросу любого Члена Круга проверить Возражение на действительность. Если оказывается, что оно не удовлетворяет нужным критериям, Фасилитатор обязан снять его.
+- **Б)** Возражающий обязан пытаться найти изменение к Предложению, которое снимает его Возражение, и по прежнему снимает изначальное Напряжение Предлагающего. Если Фасилитатор считает, что Возражающий не прикладывает искренних усилий это сделать, Фасилитатор должен объявить Возражение отвергнутым и снять его.
+- **В)** Любой Член Круга может задавать Предлагающему уточняющие вопросы о Напряжении, стоящем за Предложением, или о примерах ситуаций, которые привёл Предлагающий для иллюстрации Напряжения. Если Фасилитатор считает, что Предлагающий не отвечает добросовестно, Фасилитатор обязан снять Предложение.
+- **Г)** Возражающий может предлагать изменения к Предложению, и приводить разумные аргументы, почему оно должно снять изначальное Напряжение. Затем, по запросу Возражающего, Предлагающий должен представить разумные аргументы, почему изменённое Предложение не снимет изначальное Напряжение, хотя бы в одном примере, которыми Предлагающий иллюстрирует своё Напряжение. Если необходимо, Предлагающий может добавлять примеры ситуаций, показывающих, почему измененное Предложение не снимет Напряжение. Если Фасилитатор считает, что Предлагающий не может или не хочет этого делать, он обязан снять Предложение.
 
-#### 5.3.5 Integrative Election Process
+#### 5.3.5 Интегративный процесс выборов
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+Любой Член Круга может инициировать Законодательный Процесс Круга объявив выборы Представителя Круга, Фасилитатора или Секретаря. Действующий Фасилитатор должен провести ***"Интегративный Процесс Выборов"***, как описано ниже:
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **А) Описание Роли:**  Сначала, Фасилитатор проясняет, о какой Роли идёт речь, и устанавливает срок, на который происходит избрание. Фасилитатор может также представить другую информацию, релевантную для этих выборов. Во время этого и следующего шага, никто не может комментировать любых потенциальных кандидатов.
+- **Б) Номинации кандидатов:** Каждый Член Круга использует бюллетень или любой другой носитель, чтобы назвать своего кандидата, которые по мнению Члена Круга наилучшим образом подойдёт на эту Роль. Члены Круга должны подписать свой бюллетень своим именем, никто не может воздержаться или номинировать нескольких людей.
+- **В) Раскрытие номинаций:** Во время этого шага, Фасилитатор озвучивает номинации всех Членов Круга. Для каждого номинированного, тот, кто его выдвинул, озвучивает, почему считает этого номинанта подходящим кандидатом на данную Роль, никто не может отвечать. При этом запрещается комментировать других потенциальных кандидатов, кроме того, кого номинировал.
+- **Г) Раунд изменения номинаций:** Когда все номинации озвучена, каждый Член Круга может изменить свою номинацию и дать объяснение этому изменению. Отвечать запрещено.
+- **Д) Выдвижение предложения:** Фасилитатор считает количество номинаций каждого кандидата, и выдвигает Предложение выбрать того, у кого их больше. Если счёт равный, Фасилитатор может применить любой из следующих вариантов: (i) Если только один из ведущих кандидатов предложил сам себя, можно предложить этого человека; или (ii) если человек, выполняющий эту Роль на данный момент — среди ведущих кандидатов, можно предложить этого человека; или (iii) случайным образом вслепую выбрать одного из ведущих кандидатов, и предложить этого человека; или (iv) вернуться на предыдущий шаг процесса и попросить каждого Члена Круга, кто номинировал не кого-то из ведущих кандидатов, поменять свою номинацию на кого-то из них.
+- **Е) Раунд Возражений:** Фасилитатор спрашивает каждого Члена Круга, есть ли у них Возражения на данное Предложение. Если Возражения находятся, Фасилитатор может или дать возможность поговорить, чтобы снять Возражения, или снять Предложение. Если Предложение снимается, Фасилитатор должен вернуться на предыдущий шаг процесса, и игнорируя все номинации в пользу снятого Предложения, применить правила предыдущего шага для выбора нового кандидата.
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+Круг может принять Политику, определяющую ограничение по времени на номинации кандидатов или реакций на Предложение в Процессе Интегративных Выборов. Когда это время истекает, Фасилитатор должен исключить из оставшейся части процесса всех, кто не ответил.
 
-The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+Фасилитатор Круга несет ответственность за инициирование новых выборов для Выборных Ролей Круга после истечения каждого срока их полномочий.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 5.3.6 Замещение Фасилитатора и Секретаря
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+Заместитель может выполнять Роли Фасилитатора или Секретаря, пока на них никто не назначен. Заместитель также может выполнять эти Роли, когда действующие Фасилитатор или Секретарь не доступны, или по любой другой причине попросили замещения.
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+Когда нужно замещение, заместитель назначается по одному из следующих вариантов, в порядке приоритета:
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+- **А)** человек, назначенный самим тем, кому нужно замещение; или
+- **Б)** для Фасилитатора — действующий Секретарь Круга, и для Секретаря — действующий Фасилитатор Круга; или
+- **Г)** Лидер Круга, или, если в Круге несколько Лидеров, то первый из них, кто объявит себя заместителем; или
+- **Д)** первый Член Круга, объявивший себя заместителем.
 
-### 5.4 Governance Meetings
+### 5.4 Законодательные встречи
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
+В дополнение к обработке Предложений, внесённых асинхронно, вне каких-либо встреч, каждый Круг проводит регулярные ***"Законодательные Встречи"***, чтобы обеспечить проведение Законодательного Процесса Круга в режиме реального времени. 
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+Секретарь Круга отвечает за назначение Законодательных Встреч, а его Фасилитатор отвечает за проведение этих встреч в соответствии с описанными здесь правилами. В дополнение к назначенным регулярно Законодательным Встречам Круга, Секретарь может назначать специализированные Законодательные Встречи по запросу любого Члена Круга. Запрашивающий может указать своё намерение на такую специальную Законодательную Встречу и любые ограничения того, что на этой встрече можно менять. Это может включать описание конкретного Напряжения, или ограничивать такую встречу изменениями в конкретных указанных Ролях. В этом случае, полномочия этой специальной Законодательной Встречи будут ограничены только обработкой Предложений, соответствующих заявленному намерению и производящих изменения только в указанных рамках.
 
-#### 5.4.1 Attendance
+#### 5.4.1 Участие
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+Все Члены Круга могут участвовать в его Законодательных Встречах. Действующие Фасилитатор и Секретарь также могут участвовать, если даже они не являются Членами Круга. В этом случае, на время встречи они считаются Членами Круга.
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+Как Представитель Круга, Вы можете пригласить любого Партнёра прийти на Законодательную Встречу любого Круга, непосредственно содержащего Ваш Круг. Вы можете пригласить не более одного Партнёра за раз, и только чтобы помочь в обработке конкретного Напряжения Круга, который Вы представляете. Вы должны также чувствовать это напряжение, и считать, что есть смысл его обрабатывать в этом Круге. Ваш приглашенный гость считается Членом Круга на время встречи, или пока приглашение не будет отозвано. Ваш гость может представлять Ваш Круг на встрече вместе с Вами, но только в процессе обработки указанного Напряжения.
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+Помимо указанных выше, никто другой не может участвовать в Законодательных Встречах Круга.
 
-#### 5.4.2 Notice & Duration
+#### 5.4.2 Уведомление и продолжительность
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+Круг может проводить Законодательные Встречи только если Секретарь заранее за разумное время уведомил о такой встрече всех Членов Круга. Кроме этого условия, для проведения Законодательной Встречи Круга не требуется какой-либо кворум, если только такой кворум не установлен Политикой.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+Законодательные Встречи заканчиваются, как только истекает время встречи, запланированное Секретарём. Секретарь может продлить встречу, но только если ни один из Членов Круга не попросит этого не делать.
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+Считается, что любой Член Круга, который пропустил запланированную Законодательную Встречу или её часть, имел возможность высказать любые сомнения относительно любого Предложения, которое там рассматривалось. Таким образом, Круг может принимать Предложения на Законодательных Встречах без оглядки на отсутствующих участников.
 
-#### 5.4.3 Meeting Process
+#### 5.4.3 Процесс встречи
 
-The Facilitator must use the following process for Governance Meetings:
+Фасилитатор обязан использовать для Законодательных Встреч следующий процесс:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **А) Раунд входа:** Каждый участник по очереди делится своим текущим состоянием, или озвучивает любые другие открывающие комментарии встрече. Отвечать запрещено.
+- **Б) Формирование Повестки и её обработка:** Фасилитатор формирует повестку из Напряжений на обработку, затем по очереди обрабатывает каждый пункт.
+- **В) Закрывающий раунд:** Каждый участник по очереди делится закрывающими соображениями о встрече. Отвечать запрещено.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+В любой момент в процессе встречи участник может запросить остановку на ***"Тайм-Аут"***. Фасилитатор решает, удовлетворить такой запрос, или нет. Во время Тайм-Аута, участники могут обсуждать административные вопросы или правила Конституции. Они не могут использовать время Тайм-Аута для работы над разрешением Напряжения, Предложением или Возражением. Фасилитатор может прекратить Тайм-Аут в любой момент и продолжить нормальный процесс встречи.
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
+Политика Круга может расширять этот процесс, но не может противоречить ни одному из правил или требований, определённых в этой Статье Конституции.
 
-#### 5.4.4 Agenda Building
+#### 5.4.4 Формирование Повестки
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+Фасилитатор формирует повестку из Напряжений для обработки, собирая пункты повестки от всех участников. Фасилитатор должен делать это непосредственно на встрече, а не заранее. Каждый участник может добавлять столько пунктов повестки, сколько пожелает, давая для каждого краткое название, объяснение или обсуждение не разрешается. Участники также могут добавлять пункты повестки и позже, в процессе встречи, между обработкой существующих пунктов повестки.
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+Для регулярных Законодательных Встреч Фасилитатор может выбрать порядок, в котором будет обрабатывать пункты повестки. Однако, по запросу любого участника все пункты повестки, запрашивающие выборы, должны быть обработаны прежде других. На специальной Законодательной Встрече, назначенной по запросу участника, этот участник может определять последовательность обработки повестки.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+Пункты повестки обрабатываются по одному за раз. Чтобы обработать запрос на выборы, Фасилитатор использует Интегративный Процесс Выборов. Чтобы обработать что либо другое, Фасилитатор использует Интегративный Процесс Принятия Решений, описанный ниже.
 
-#### 5.4.5 Integrative Decision-Making Process
+#### 5.4.5 Интегративный Процесс Принятия Решений
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+Фасилитатор должен следовать Интегративному Процессу Принятия Решений как описано ниже:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **А) Презентация Предложения:** Сначала, Предлагающий может описать Напряжение и представить соответствующее Предложение. По запросу Предлагающего, Фасилитатор может разрешить другим помочь сформировать Предложение. Однако, Фасилитатор должен фокусировать такую помощь исключительно на получении первоначального Предложения, которое сняло бы Напряжение Предлагающего. Фасилитатор должен запрещать любые дискуссии, кроме обсуждения Напряжения или соображений относительно Предложения.
+- **Б) Уточняющие вопросы:** Когда Предлагающий внёс Предложение, другие участники могут задавать вопросы, чтобы лучше понять Предложение или стоящее за ним Напряжение. На каждый такой вопрос Предлагающий может ответить или отклонить его. Фасилитатор должен останавливать любые реакции или мнения относительно Предложения, прерывая обсуждению любого рода. Участники также могут попросить Секретаря прочитать Предложение, или обратиться к действующему Законодательству, во время этого шага, или любого другого, где участнику разрешено говорить, Секретарь обязан это сделать.
+- **В) Раунд реакций:** Далее, каждый участник, кроме Предлагающего, может поделиться реакцией на Предложение в порядке очереди. Фасилитатор должен немедленно останавливать любые комментарии вне очереди, любые попытки вовлекать других в диалог, любые реакции на реакции других участников, вместо реакций на Предложение.
+- **Г) Изменение и уточнение:** Далее, Предлагающий может прокомментировать любые реакции и внести правки в Предложение. Однако, основное намерение таких правок должно заключаться в попытке лучше снять Напряжение Предлагающего, а не Напряжения, обозначенные другими. Фасилитатор должен немедленно останавливать комментарии от других участников, кроме Предлагающего и Секретаря. Любое взаимодействие с Секретарём должно быть направлено на внесение правок в Предложение.
+- **Д) Раунд Возражений:** Далее, каждый участник в порядке очереди может делиться сомнениями относительно принятия Предложения. Фасилитатор должен или записать эти сомнения как Возражения, или проверить их на соответствие критериям Возражений, и записать те Возражения, которые им соответствуют. Если не нашлось Возражений, то Предложение принимается. В процессе проверки сомнений и фиксации Возражений, Фасилитатор должен останавливать любые попытки обсуждения или ответы от других участников, кроме Возражающего.
+- **Е) Интеграция** Если нашлись Возражения, Фасилитатор далее сосредотачивается на них в порядке очереди. Для каждого - участники ищут потенциальное изменение Предложения, снимающее Возражение. Фасилитатор отмечает Возражение как разрешенное, как только Возражающий подтверждает, что измененное предложение не вызывает того же Возражения, и Предлагающий подтверждает, что оно по прежнему снимает исходное Напряжение. Во время этого шага, Фасилитатор должен применять правила интеграции, описанные в этой главе. Когда все Возражения разрешены, Фасилитатор возвращается обратно к раунду Возражений с изменённым Предложением.
 
-### 5.5 Process Breakdown
+### 5.5 Нарушение процесса
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+***"Нарушение процесса"*** происходит, когда Круг демонстрирует поведение или результаты, которые нарушают правила Конституции. Фасилитатор или Секретарь Круга могут объявить Нарушение Процесса в этом Круге или каком-либо его Под-Круге на основе своих суждений. Любой заинтересованный Партнер также может запросить Фасилитатора рассмотреть Под-Круг с целью поиска потенциального нарушения процесса, и Фасилитатор должен провести аудит встреч Под-Круга и его законодательства по запросу, а также объявить о нарушении процесса, если таковое будет обнаружено.
 
-#### 5.5.1 Breakdown from Failed Governance
+#### 5.5.1 Отказ от неудачного Законодательства
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+Фасилитатор Круга может объявить в Круге Нарушение Процесса, если по Предложению не удаётся прийти к заключительному решению после того как на это потрачено достаточно времени и усилий.
 
-#### 5.5.2 Process Restoration
+#### 5.5.2 Восстановление процесса
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+Когда уполномоченная сторона объявляет в Круге Нарушение Процесса, происходит следующее:
 
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
+- **А)** Фасилитатор получает полномочия оценивать логику и релевантность любых аргументов, чтобы проверить на действительность Предложение или Возражения в Круге; и
+- **Б)** Фасилитатор Супер-Круга получает Проект на восстановление процесса в рамках Круга; и
+- **В)** Фасилитатор Супер-Круга получает полномочия перенять Роль Фасилитатора или Секретаря в Круге; и
+- **Г)** Фасилитатор Супер-Круга может назначить дополнительного Лидера Круга на время Нарушения Процесса. Любые решения, которые этот человек принимает как Лидер Круга, имеют приоритет над конфликтующими решениями других Лидеров Круга или отменяют такие решения.
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+Эти полномочия заканчиваются как только по оценке Фасилитатора Супер-Круга нарушенный процесс в Круге восстановлен.
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+Если у Круга с Нарушением Процесса нет Супер-Круга, то все перечисленные выше полномочия даются Фасилитату данного Круга.
 
-#### 5.5.3 Escalation of Process Breakdown
+#### 5.5.3 Эскалация нарушения процесса
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+Нарушение Процесса в одном Круге не рассматривается как Нарушение Процесса в его Супер-Круге автоматически. Однако, если оно остаётся неразрешенным неадекватно долго, то считается что в Супер-Круге тоже Нарушение Процесса.
+
+---
+
+Этот перевод опубликован по той же лицензии <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International Public License</a>, что и оригинальная <a rel="constitusion" href="https://www.holacracy.org/constitution/5">Конституция Холакратии 5.0</a>.
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
----
