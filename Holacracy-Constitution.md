@@ -261,58 +261,58 @@
 
 Вы должны приоритизировать коммуникацию и восстановление, описанные в этом разделе, над своей обычной работой. Однако, Лидер Круга, содержащего все Роли, на которые повлияли Ваши действия, по умолчанию может изменить этот приоритет.
 
-## Article 5: Governance Process
+## Статья 5: Законодательство
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+Для изменения Законодательства Круга необходимо использовать ***"Законодательный Процесс"***, описанный в этой статье.
 
-### 5.1 Governance Participants
+### 5.1 Участники законодательного процесса
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
+В каждом Круге есть группа Членов Круга, которые могут представлять свои Роли в Законодательном Процессе.
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+Члены Круга — это Партнёры, выполняющие Роль Лидера Круга, а также Партнёры, являющиеся Исполнителями Ролей в Круге. Если у Роли есть несколько Исполнителей, Круг может принять Политику, ограничивающую количество представителей этой Роли в качестве Членов Круга в Законодательном Процессе.
 
-#### 5.1.1 Circle Reps
+#### 5.1.1 Представители Кругов
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+Как Член Круга, вы можете в любой момент запросить выборы, чтобы избрать или сменить кого-то в Роли ***"Представителя Круга"***, чтобы помогать представлять этот Круг в более широком Круге, содержащем его. Выбранный Представитель Круга выполняет свою Роль ***"Представителя Круга"***, с миссией: "Напряжения, которые нуждаются в обработке в более широком Круге, передаются наружу и решаются" и следующими Обязательствами:
 
-- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
-- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
+- **А)** Стремиться понимать Напряжения, обозначенные Исполнителями Ролей в Круге
+- **Б)** Выявлять Напряжения, нуждающиеся в обработке в рамках более широкого Круга, содержащего текущий Круг
+- **В)** Обрабатывать Напряжения в рамках более широкого Круга, чтобы убирать препятствия в работе Круга
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+Для выбора Представителя Круга Круг обязан использовать Интегративный Процесс Выборов, определённый в этой Конституции, если Политикой не введён альтернативный процесс. Только Члены Круга могут избираться на Роль Представителя Круга. Исполнители Роли Лидера Круга не могут одновременно быть Представителями Круга. В любой момент времени Представителем Круга может быть только один человек, кроме случаев, когда Политика Круга, содержащего этот Круг, это разрешает.
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+Выбранный Представитель Круга становится Членом любого Круга, содержащего этот Круга, получая возможность представлять этот Круг как Лидер Круга. Объемлющий Круг может посредством Политики ограничить или исключить возможность таких Представителей Круга становиться Членами Круга, но только если у его Ролей есть другой механизм представления своих интересов в этом Круге.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
+Круг может добавлять Обязательства и Домены к Роли Представителя Круга, а также менять и убирать эти добавления. Никакой Круг не может изменить или убрать Миссию или Обязательства Роли Представителя Круга, данные этой Конституцией.
 
-#### 5.1.2 Facilitator & Secretary
+#### 5.1.2 Фасилитатор и секретарь
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+Фасилитатор Круга несет ответственность за проведение Законодательного Процесса Круга. Секретарь Круга отвечает за фиксацию и публикацию результатов Законодательного Процесса и владеет Доменом "Все законодательные записи Круга".
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+Как Член Круга, вы можете в любой момент запросить выборы, чтобы избрать или сменить кого-то в Роли Фасилитатора Круга или Секретаря Круга. Для выборов Секретаря или Фасилитатора, Круг обязан применять Интегративный Процесс Выборов, описанный здесь. Никакая Роль или Политика не могут назначать или снимать людей с этих Ролей любым другим способом, или менять процесс выборов. Обычно, единственные кандидаты, которые могут участвовать в таких выборах — это Члены Круга. Однако, Политика Круга или его Супер-Круга может расширять или ограничивать группу потенциальных кандидатов.
 
-### 5.2 Scope of Governance
+### 5.2 Границы Законодательства
 
-Within a Circle's Governance Process, its Circle Members may:
+В рамках Законодательного Процесса Члены Круга могут:
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+- **А)** создавать, изменять или удалять Роли Круга; и
+- **Б)** создавать, изменять или удалять Политики Круга; и
+- **В)** перемещать Роли Круга внутрь Под-Кругов или далее в их Под-Круги на любой уровень вложенности, но только если это соответствует Миссии или Обязательствам этих Под-Кругов; и
+- **Г)** перемещать Роли или Политики изнутри Под-Кругов или их Под-Кругов с любого уровня вложенности в сам этот Круг, но только если эти Роли или Политики более не соответствуют Миссии и Обязательствам этих Под-Кругов; и
+- **Д)** проводить выборы для любой из выборных Ролей Круга.
 
-No other decisions are valid outputs from a Circle's Governance Process.
+Никакие другие решения не могут быть результатом Законодательного Процесса Круга.
 
-#### 5.2.1 Scope of Policy
+#### 5.2.1 Границы Политик
 
-A Policy may only be one or more of the following:
+Политика может действовать только так, как указано ниже:
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+- **А)** ограничивать полномочия одной или более Ролей в Круге;
+- **Б)** передавать полномочия Круга или Лидера Круга одной или нескольким Ролям;
+- **В)** передавать людям или Ролям полномочия контролировать или влиять на Домены Круга, или ограничивать как они могут это делать, если у них ранее уже были такие полномочия;
+- **Г)** менять правила или процессы этой Конституции, если такие изменения разрешены явным образом.
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in this Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+Политика, которая даёт или ограничивает полномочия, так же действует и во всех Под-Кругах на всех уровнях вложенности, если не указано обратное. Политика, которая меняет правила или процессы этой Конституции, действует только непосредственно в Круге, в котором создана, или, если об этом сказано явным образом, то и во всех Под-Кругах на всех уровнях вложенности. В этом случае Под-Круг может заменить такую Политику своей собственной, если только это не запрещается явным образом исходной Политикой.
 
 ### 5.3 Changing Governance
 
