@@ -226,41 +226,40 @@
 
 Посредством Политики можно изменить этот процесс любым образом или прямо разрешить Ролям контролировать расходы ресурсов Круга.
 
-### 4.2 Interpretation Authority
+### 4.2 Полномочия интерпретации
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+Как Партнёр, вы можете использовать свои суждения для интерпретации этой Конституции и всего, что ей подчиняется. Вы можете интерпретировать, как она применяется в любой конкретной ситуации, с которой Вы сталкиваетесь, и действовать на основе своей интерпретации. Однако, вы обязаны интерпретировать любое Законодательство в контексте Миссии и Обязательств Круга, содержащего его, и в соответствии с любыми официальными принятыми интерпритациями этого Круга или любого его Супер-Круга. Вы не можете использовать интерпретации, конфликтующие с этим контекстом.
 
-#### 4.2.1 Conflicts of Interpretation
+#### 4.2.1 Конфликты интерпретации
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+Как у Партнёра, Ваша интерпретация Конституции и Законодательства Организации может иногда конфликтовать с интерпретациями других Партнёров. Когда такое происходит, любая сторона может спросить Секретаря любого вовлеченного Круга определить, какую интерпретацию применять, и Секретарь по такому запросу обязан интерпритировать Конституцию и всё, что она регулирует. Когда Секретарь ответил, все обязаны подстроиться под интерпретацию Секретаря, пока связанное с этим Законодательство или контекст не изменятся.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+После определения интерпретации, Секретарь может опубликовать решение и логику, стоящую за ним. Когда новая интерпретация опубликована, Секретарь этого Круга и любого вложенного Круга должен следовать той же логике в будущих интерпретациях. Однако, Секретарь может по-прежнему поменять её, как только появятся новые обстоятельства, которые сделают эту логику неподходящей.
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+Вы можете оспорить интерпретацию Секретаря через Секретаря любого Супер-Круга. Секретарь Супер-Круга может переопределить интерпретацию Секретаря в любом Под-Круге.
 
-#### 4.2.2 Striking Invalid Governance
+#### 4.2.2 Удаление некорректного Законодательства
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+Как Партнёр, вы можете попросить Секретаря Круга проверить корректность любого Законодательства Круга или Под-Кругов, на любом уровне вложенности. Если Секретарь сочтёт, что оно нарушает правила этой Конституции, Секретарь обязан удалить такое Законодательство из записей Круга. После этого Секретарь обязан немедленно сообщить всем Членам соответствующего Круга, что и почему он удалил.
 
-### 4.3 Individual Initiative
+### 4.3 Личная инициатива
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+Как Партнёр Организации, в некоторых случаях вы можете предпринимать ***"Личную Инициативу"***, действуя за рамками полномочий своих Ролей, или нарушая правила этой Конституции.
 
-#### 4.3.1 Allowed Situations
+#### 4.3.1 Допустимые ситуации
 
-You may only take Individual Initiative when all of the following are true:
+Вы можете предпринимать Личную Инициативу только когда все следующие условия выполнены:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+- **А)** Вы добросовестно действуете в интересах Миссии или выполняя Обязательства некоторой Роли внутри Организации.
+- **Б)** Вы считаете, что Ваши действия снимут или предотвратят большее Напряжение для Организации, чем вероятно создадут.
+- **В)** Ваши действия не создают для Организации расходов средств сверх тех, что Вам разрешено потратить.
+- **Г)** Если Ваши действия нарушат Политику или Домен, Вы считаете, что в случае промедления в связи с получением разрешения или изменением Законодательства, будет потеряно много пользы.
 
-#### 4.3.2 Communication & Restoration
+#### 4.3.2 Коммуникация и восстановление
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+После совершения Личной Инициативы Вы должны объяснить ваши действия Исполнителям Ролей, на которые она могла существенно повлиять. По запросу любого Исполнителя Роли, Вы должны предпринять последующие действия, чтобы помочь снять Напряжения, созданные вашей Личной Инициативой. Вы также должны воздерживаться от повторения аналогичной Личной Инициативы по запросу любого Исполнителя Роли.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
-
+Вы должны приоритизировать коммуникацию и восстановление, описанные в этом разделе, над своей обычной работой. Однако, Лидер Круга, содержащего все Роли, на которые повлияли Ваши действия, по умолчанию может изменить этот приоритет.
 
 ## Article 5: Governance Process
 
