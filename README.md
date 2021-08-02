@@ -1,11 +1,13 @@
-# Introduction: Holacracy® Constitution
+# Введение: Конституция Холакрптии (Holacracy®)
 
-### What is the Holacracy Constitution?
+### Что такое - Конституция Холакратии?
 
-The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy framework for governing and managing an organization. It provides the foundation needed for Holacracy practice, by anchoring the target power shift in concrete and documented “rules of the game”.
+Конституция Холакратии определяет основные правила, структуру и процессы холакратии как операционной системы для управления организацией. Она обеспечивает основу, необходимую для практики Холакратии, закрепляя целевое распределение власти в конкретных описанных «правилах игры».
 
-### How is the Holacracy Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy framework. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">sample one attached here</a>.
+
+### Как предполагается использовать Конституцию холакратии?
+The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy framework. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">sample one attached here</a>. На Конституцию следует ссылаться в любой декларации или соглашении, в которых содержится решение об организации с использованием рамок холакратии. Это может быть официальный набор юридических подзаконных актов или аналогичное операционное соглашение, либо простое решение совета директоров, либо декларация политики генерального директора, аналогичная
+
 
 ### What the Holacracy Constitution isn’t
 The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
