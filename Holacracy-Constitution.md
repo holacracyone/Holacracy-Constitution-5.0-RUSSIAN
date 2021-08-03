@@ -464,8 +464,9 @@
 Нарушение Процесса в одном Круге не рассматривается как Нарушение Процесса в его Супер-Круге автоматически. Однако, если оно остаётся неразрешенным неадекватно долго, то считается что в Супер-Круге тоже Нарушение Процесса.
 
 ---
+**Холакратия** является торговой маркой HolacracyOne, LLC
 
 Этот перевод опубликован по той же лицензии <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International Public License</a>, что и оригинальная <a rel="constitusion" href="https://www.holacracy.org/constitution/5">Конституция Холакратии 5.0</a>.
-
+Перевод на русский язык выполнени сообществом <a rel="holarus" href="https://t.me/holacracyRu">Сообществом ХолакратияРус</a>
 ---
 
