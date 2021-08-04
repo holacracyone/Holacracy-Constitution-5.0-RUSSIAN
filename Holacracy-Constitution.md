@@ -469,7 +469,7 @@
 
 Этот перевод опубликован по той же лицензии <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International Public License</a>, что и оригинальная <a rel="constitusion" href="https://www.holacracy.org/constitution/5">Конституция Холакратии 5.0</a>.
 
-Перевод на русский язык выполнен <a rel="holarus" href="https://t.me/holacracyRu">Сообществом ХолакратияРус</a>
+Перевод на русский язык выполнен <a rel="holarus" href="https://t.me/holacracyRu">Сообществом практиков Холакратии в России</a>
 
 ---
 
