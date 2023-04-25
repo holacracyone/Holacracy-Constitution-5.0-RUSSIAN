@@ -1,38 +1,37 @@
-# Введение: Конституция Холакратии (Holacracy®)
+# Introduction: Constitution
 
-### Что такое - Конституция Холакратии?
+> Every mind - whether individual or collective - within the hierarchy of nested structures and processes of the Universe, first and foremost addresses the tasks of management in relation to hierarchically lower systems, as well as the tasks of self-management within the possibilities provided by the hierarchically encompassing management above it.
 
-Конституция Холакратии определяет основные правила, структуру и процессы Холакратии, как операционной системы для управления организацией. Она обеспечивает основу, необходимую для практики Холакратии, закрепляя целевое распределение власти в конкретных описанных «правилах игры».
+### What is the Constitution?
 
-### Как предполагается использовать Конституцию холакратии?
-На Конституцию следует ссылаться в любой декларации или соглашении, в которых содержится решение об использованием Холакратии, как системы управления организацией. Это может быть официальный набор юридических актов или аналогичное операционное соглашение, либо простое решение совета директоров, либо декларация решения генерального директора, аналогичная <a href="https://github.com/holacracyone/Holacracy-Constitution-5.0-RUSSIAN/blob/main/Adoption%20Declaration.md" target="_blank">этому примеру</a>.
+The Constitution documents the core rules, structure, and processes of the [Holacracy framework](http://holacracy.org) for governing and managing an organization. It provides the foundation needed for practice, by anchoring the target power shift in concrete and documented “rules of the game”.
 
-### Чем Конституция Холакратии не является?
-Конституция Холакратии **не является полным набором юридических документов организации или официальным учредительным договором**. (HolacracyOne отдельно публикует собственное операционное соглашение в качестве примера правового регулирующего документа, который ссылается на эту Конституцию и включает ее.)
+The Constitution is **not a complete set of legal bylaws or a formal operating agreement**. The Constitution is also **not an instruction manual or a guidebook** for learning to use the framework. Like the rulebook for a sport, it can serve as a critical reference at times, but reading it will not teach you how to play the game.
 
-Эта Конституция также **не является инструкцией или руководством** для обучения практике Холакратии. Как и свод правил для какого-либо вида спорта, она иногда может служить важным справочником, но её чтение не научит вас играть в игру. Если вы ищете, как можно развернуть Холакратию в вашей организации, посетите <a href="http://holacracy.org" target="_blank">сайт</a> HolacracyOne
+### Content
 
-### Заявление об отказе от ответственности
-Holacracy One не является юридической фирмой, и Конституцию не следует рассматривать как юридический документ или юридическую консультацию. Проконсультируйтесь со своим юристом о вашей конкретной ситуации, прежде чем использовать Конституцию в любом юридическом применении или для любых юридических нужд. Этот документ предоставляется «как есть», без каких-либо гарантий или условий. Holacracy One не гарантирует качество, точность, своевременность, полноту, товарность или пригодность этого документа для использования или предназначения. В максимальной степени, предусмотренной законом, Holacracy One, его агенты и участники не несут ответственности за любой ущерб, возникший в результате использования этого документа.
+English version:
 
-### Лицензирование и использование
-Как и Linux®, Wikipedia® и Java®, Holacracy® является зарегистрированным товарным знаком; в данном случае принадлежащим HolacracyOne LLC. Как и другие владельцы открытых платформ, Holacracy One стремится поддерживать целостность своего бренда и качество того, что он представляет. Итак, мы приглашаем вас создавать и делиться своими собственными производными работами на основе Конституции Холакратии® в соответствии с условиями нашей лицензии CC BY-SA 4.0 с открытым исходным кодом и указывать, что ваша работа основана на официальной Конституции Холакратии и ссылку на http://holacracy.org/constitution. Однако, помимо этой ссылки, вы не можете называть или иным образом маркировать свою производную работу с помощью знака Holacracy, чтобы избежать путаницы между вашей версией и официальным документом Holacracy. Если есть вопросы, пожалуйста, <a href="http://www.holacracy.org/contact/" target="_blank">свяжитесь с HolacracyOne</a>!
+-   [Constitution Adoption Declaration](adoption-en.md)
+-   [Preamble](constitution-en.md#preamble)
+-   [Article 1: Organizational Structure](constitution-en.md#article-1-organizational-structure)
+-   [Article 2: Rules of Cooperation](constitution-en.md#article-2-rules-of-cooperation)
+-   [Article 3: Tactical Meetings](constitution-en.md#article-3-tactical-meetings)
+-   [Article 4: Distributed Authority](constitution-en.md#article-4-distributed-authority)
+-   [Article 5: Governance Process](constitution-en.md#article-5-governance-process)
+-   [Appendix. Core Roles](appendix-en.md)
 
-### Соавторы
-До версии 4.0 Конституция Холакратии была разработана Brian Robertson (Брайаном Робертсоном) и HolacracyOne. 
 
-Соавторы версии 4.1: Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen и Jeffrey Anthony.
+Russian version:
+-   [Декларация о принятии Конституции](adoption-ru.md)
+-   [Преамбула](constitution-ru.md#Преамбула)
+-   [Статья 1: Организационная структура](constitution-ru.md#статья-1-организационная-структура)
+-   [Статья 2: Правила сотрудничества](constitution-ru.md#статья-2-правила-сотрудничества)
+-   [Статья 3: Тактические собрания](constitution-ru.md#статья-3-тактические-собрания)
+-   [Статья 4: Распределённые полномочия](constitution-ru.md#статья-4-распределенные-полномочия)
+-   [Статья 5: Процесс Управления](constitution-ru.md#статья-5-процесс-управления)
+-   [Приложение. Базовые Роли](appendix-ru.md)
 
-Список соавторов версии 5.0 смотрите в истории отправки в репозиторий Конституции и базу данных проблем (issue database) на GitHub.
+### Legal Disclaimer
 
----
-
-#### Больше информации и поддержки по Холакратии: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
-
----
-
-*_Конституция Холакратии лицензируется в соответствии с <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
-
----
+Union Group is not a law firm, and the Constitution should not be construed as a legal document or legal advice. Consult with your attorney about your specific situation before using the Constitution in any legal capacity or for any legal needs. This document is provided "as-is", without warranty or condition of any kind whatsoever. Union Group does not warrant this document’s quality, accuracy, timeliness, completeness, merchantability, or fitness for use or purpose. To the maximum extent provided by law, Union Group and its agents and members shall not be liable for any damages whatsoever arising from the use of this document.
